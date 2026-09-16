@@ -18,7 +18,7 @@ def code(text: str):
 
 def build_notebook():
     nb = nbf.v4.new_notebook()
-    nb.cells = [
+    nb.cells = [ 
         md("# SalesLens - Data Exploration"),
         md(
             "## 1. Project Objective\n"
