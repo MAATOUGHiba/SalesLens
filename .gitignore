@@ -26,6 +26,7 @@ data/processed/*
 # Local config / secrets
 .env
 .env.*
+!.env.example
 *.local
 
 # OS / editor
