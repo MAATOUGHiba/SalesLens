@@ -3,4 +3,6 @@ numpy==2.5.2
 matplotlib==3.11.1
 seaborn==0.13.2
 jupyter==1.1.1
-
+psycopg[binary]==3.2.10
+python-dotenv==1.1.0
+pytest==8.3.5
