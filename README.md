@@ -295,8 +295,4 @@ Open `dashboard/SalesLens.pbix` in Power BI Desktop. The three report page captu
 
 Realistic next steps include adding validated product cost and returns data, capturing SQL query outputs in reconciliation documentation, documenting DAX definitions and filter behavior, and defining a defensible postal-code matching rule before analyzing shipping distance.
 
-## Contact
-
-- **GitHub:** [Add your profile URL]
-- **LinkedIn:** [Add your profile URL]
 
